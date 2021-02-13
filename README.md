@@ -1,1 +1,3 @@
-# movieApp_with_provider
+# movies_app_with_provider
+
+movie app with an api handeled by provider plugin ...
